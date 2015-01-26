@@ -3,4 +3,4 @@ Mahee added one more line
 Mahee locally added line no:3
 Mahee added line no:3 
 added line no:5 global
-local 6
+local 6 & globally added line no:6 
